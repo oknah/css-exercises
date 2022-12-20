@@ -1,0 +1,22 @@
+
+
+.standard,
+.cooler {
+    background-color:#ff96edcf;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size 24px;
+}
+
+#first {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#second {
+    background-color:#98ed4e80;
+    font-size: 24px;
+    font-weight: 700;
+}
